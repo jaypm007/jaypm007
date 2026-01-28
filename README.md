@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**jaypm007/jaypm007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm James 👋
 
-Here are some ideas to get you started:
+### CEO & Co-Founder @ Fennec Signals | Privacy-First Athlete Safety
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a technical leader with 20+ years of experience in architecting secure communications and resilient networking. Currently, I'm bridging the gap between military-grade connectivity and trail safety for solo athletes.
+
+- 🦊 **Currently Building:** [Fennec Signals](https://fennecsignals.com) — Pioneering privacy-by-design wearables and secure SOS protocols.
+- 🎓 **Education:** MS in Cyber Security (Wright State University).
+- 🛡️ **Focus Areas:** Zero-Knowledge Architecture, MANET (Mobile Ad-hoc Networks), and RF Communication.
+- 🏃‍♂️ **Mission:** Ensuring help is found quickly on the trails without compromising user data sovereignty.
+
+### Technical Toolbox
+- **Languages:** Go, Python, C/C++
+- **Security:** Zero-Trust, IPSEC/TLS, Data Anonymization
+- **Systems:** ARM/Embedded (RTOS), Distributed Systems, Linux
+
+### Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/jamesmaclennan/)
+- [X](https://x.com/JMacLennan_FS)
+- [Website](https://fennecsignals.com)
